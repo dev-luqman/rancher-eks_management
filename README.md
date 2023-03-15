@@ -1,4 +1,4 @@
-# Eks Management with rancher application using terraform
+# :rocket: Eks Management with rancher application using terraform
 
 This is sample nginx application running on aws eks cluster through terraform
 
